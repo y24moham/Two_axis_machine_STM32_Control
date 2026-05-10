@@ -326,7 +326,7 @@ The ADC was accurate enough for manual speed control because the potentiometer i
 
 The Python manual-control GUI is included in the repository and is used to send UART commands to the STM32 for manual X/Y axis control.
 
-![Python Manual Control GUI](assets/gui_screenshot.png)
+![Python Manual Control GUI](assets/GUI_screenshot.png)
 
 Main functions:
 - Opens a serial connection to the STM32
