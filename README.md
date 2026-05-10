@@ -342,22 +342,26 @@ Main functions:
 ```text
 .
 ├── README.md
-├── firmware/
-│   ├── platformio.ini
-│   ├── src/
-│   ├── include/
-│   └── lib/
-├── gui/
-│   └── manual_control_gui.py
-├── docs/
-│   ├── Connection_block_diagram.pdf
-│   ├── block_diagram.drawio
-│   ├── MTE325_lab_notes_sanitized.pdf
-│   └── pin_mapping.md
-└── assets/
-    ├── Machine_img1.jpg
-    ├── Connections.jpg
-    └── gui_screenshot.png
+├── assets/
+│   ├── Connections.jpg
+│   ├── GUI_screenshot.png
+│   └── Machine_img1.jpg
+├── Docs/
+│   ├── block_diagram
+│   ├── connection_block_diagram.pdf
+│   └── MTE325_lab_notes_sanitized.pdf
+├── Firmware/
+│   └── w23_two_axis_project-limit_switch_yaseen/
+│       ├── .vscode/
+│       ├── include/
+│       ├── src/
+│       ├── .gitignore
+│       ├── platformio.ini
+│       ├── README.md
+│       └── stm32f4xx_hal_uart.c
+└── GUI_Python_Keyboard_CNTRL_GUI/
+    ├── Keyboard_CNTRL.py
+    └── Requirements.txt
 ```
 
 ## How to Run
