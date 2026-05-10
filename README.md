@@ -6,6 +6,8 @@ This project was completed for MTE 325 and focused on applying embedded systems 
 
 ![Two-Axis Machine](Machine_img1.HEIC)
 
+> Note: This was completed as a group course project for MTE 325. This repository highlights my implementation work, documentation, and system integration contributions.
+
 ## Demo
 
 Demo folder:  
