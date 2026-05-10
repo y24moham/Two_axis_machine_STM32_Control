@@ -4,7 +4,7 @@ STM32-based embedded control project for a two-axis machine driven by two steppe
 
 This project was completed for MTE 325 and focused on applying embedded systems concepts to a real hardware platform: peripheral configuration, polling vs interrupts, ADC characterization, motor control, UART communication, and system-level safety handling.
 
-![Two-Axis Machine](Machine_img1.HEIC)
+![Two-Axis Machine](Machine_img1.jpg)
 
 > Note: This was completed as a group course project for MTE 325. This repository highlights my implementation work, documentation, and system integration contributions.
 
@@ -102,7 +102,7 @@ A full connection block diagram is included in the repository:
 - `Connection_block_diagram.pdf`
 - `Connection_block_diagram/`
 
-![Connections](Connections.HEIC)
+![Connections](Connections.jpg)
 
 ## Pin Mapping
 
