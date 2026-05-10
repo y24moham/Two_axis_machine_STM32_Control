@@ -359,9 +359,10 @@ Main functions:
 │       ├── platformio.ini
 │       ├── README.md
 │       └── stm32f4xx_hal_uart.c
-└── GUI_Python_Keyboard_CNTRL_GUI/
-    ├── Keyboard_CNTRL.py
-    └── Requirements.txt
+└── GUI/
+     └──Python_Keyboard_CNTRL_GUI/
+        ├── Keyboard_CNTRL.py
+        └── Requirements.txt
 ```
 
 ## How to Run
